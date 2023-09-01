@@ -1,0 +1,20 @@
+.logo{
+    background-image: url("../../public/images/Samarth\ Meditech\ logo.png");
+    background-repeat: no-repeat;
+    background-size: contain
+}
+
+/* main file */
+
+.bg{
+    background-image: url("../../public/images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* declaration
+
+p::before{
+    content: "*";
+    margin-right: 10px;
+} */
